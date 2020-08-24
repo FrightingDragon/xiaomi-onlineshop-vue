@@ -16,7 +16,7 @@ CSS3/CSS5, HTML/HTML5, ES5/ES6, Vue，Vuex, Vue-cli，Sass 等。
 
 使用 flex 布局对该区域进行了重新的排版。 
 
-![alt 不同类别商品展示](https://github.com/FrightingDragon/xiaomi-onlineshop-vue.git/master/sreencut/不同类别商品展示.png)
+![alt 不同类别商品展示](https://github.com/FrightingDragon/xiaomi-onlineshop-vue/blob/master/sreencut/%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%88%AB%E5%95%86%E5%93%81%E5%B1%95%E7%A4%BA.png)
 
 ### 02 小米闪购轮播模块功能改进
 
