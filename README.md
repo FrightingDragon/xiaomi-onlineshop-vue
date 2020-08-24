@@ -16,7 +16,7 @@ CSS3/CSS5, HTML/HTML5, ES5/ES6, Vue，Vuex, Vue-cli，Sass 等。
 
 使用 flex 布局对该区域进行了重新的排版。 
 
-![alt 不同类别商品展示](https://github.com/FrightingDragon/xiaomi-onlineshop-vue/blob/master/sreencut/%E4%B8%8D%E5%90%8C%E7%B1%BB%E5%88%AB%E5%95%86%E5%93%81%E5%B1%95%E7%A4%BA.png)
+![alt 不同类别商品展示](screencut/不同类别商品展示.png)
 
 ### 02 小米闪购轮播模块功能改进
 
@@ -48,7 +48,7 @@ CSS3/CSS5, HTML/HTML5, ES5/ES6, Vue，Vuex, Vue-cli，Sass 等。
 ## 项目不足
 
 1. sass 相关功能运用的不多，只是用了部分简单的语法，还有很大的改进空间；
-2. 没有设置 max/min-width 等属性和，后续可以配合 @media 实现响应式布局；
+2. 没有设置 max/min-width 等属性，后续可以配合 @media 实现响应式布局；
 3. 没有实现复杂的数据交换的功能。 
 
 ## 项目总结
